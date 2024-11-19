@@ -1,0 +1,5 @@
+﻿  ConsoleApplication8.cpp
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(39,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(64,8): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(64,8): warning C4309: аргумент: усечение константного значения
+  ConsoleApplication8.vcxproj -> D:\Praktika\LOAIZ\laba8\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
