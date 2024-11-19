@@ -1,5 +1,4 @@
 ﻿  ConsoleApplication8.cpp
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(39,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(64,8): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(64,8): warning C4309: аргумент: усечение константного значения
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(131,73): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(131,73): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
   ConsoleApplication8.vcxproj -> D:\Praktika\LOAIZ\laba8\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
