@@ -1,7 +1,5 @@
 ﻿  ConsoleApplication8.cpp
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(24,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(139,8): warning C4305: аргумент: усечение из "__int64" в "unsigned int"
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(139,8): warning C4309: аргумент: усечение константного значения
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(156,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(174,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(1072,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(1091,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Praktika\LOAIZ\laba8\ConsoleApplication8\ConsoleApplication8.cpp(1098,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   ConsoleApplication8.vcxproj -> D:\Praktika\LOAIZ\laba8\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
